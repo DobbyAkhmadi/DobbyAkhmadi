@@ -5,7 +5,7 @@ Hello, I'm Dobby Akhmadi. I am a FullStack developer from Indonesia Espesially o
 
 #### 👨‍💼 About me:
 - 👨‍💻 I'm FullStack Developer
-- 📖 Learing backend desktop and web development, mainly Spring with Hibernate
+- 📖 Learing backend desktop and web development, mainly Spring with Hibernate,.Net,Golang
 - 💰 Currently working as Full Stack Developer on Small Startup
 - 🛠️ Love Hackintoshes,iOS jailbreaking and New Technology
 - 🌐 Visit my [Website](https://google.com/) for Complete Presentation!
