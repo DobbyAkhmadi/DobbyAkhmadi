@@ -1,4 +1,4 @@
-# Hello World! <img src="https://github.com/mikigal/mikigal/blob/master/hi.gif" width="35px" /> Not a Pro Programmer Just Hobby!
+# Hello World! <img src="https://github.com/mikigal/mikigal/blob/master/hi.gif" width="35px" />
 
 
 Hello, I'm Dobby Akhmadi. I am a FullStack developer from Indonesia Espesially on Bandung. I did some projects with Spring, Go, .Net C#, Ada Core, C++ and many more. Contact me if you have some questions!
