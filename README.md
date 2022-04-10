@@ -1,12 +1,11 @@
 # Hello World! <img src="https://github.com/mikigal/mikigal/blob/master/hi.gif" width="35px" />
 
 
-Hello, I'm Dobby Akhmadi. I am a FullStack developer from Indonesia Espesially on Bandung. I did some projects with Spring, Go, .Net C#, Ada Core, C++ and many more. Contact me if you have some questions!
+Hello, I'm Dobby Akhmadi. I am a BackEnd developer from Indonesia Espesially on Bandung. I did some projects with Spring, Go, .Net C#, Ada Core, C++ and many more. Contact me if you have some questions!
 
 #### 👨‍💼 About me:
-- 👨‍💻 I'm FullStack Developer
 - 📖 Learing backend desktop and web development, mainly Spring with Hibernate,.Net,Golang
-- 💰 Currently working as Full Stack Developer on Small Startup
+- 💰 Currently working as Developer on Small Startup
 - 🛠️ Love Hackintoshes,iOS jailbreaking and New Technology
 - 🌐 Visit my [Website](https://google.com/) for Complete Presentation!
 
