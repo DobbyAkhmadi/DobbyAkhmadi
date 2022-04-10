@@ -20,7 +20,6 @@ Hello, I'm Dobby Akhmadi. I am a FullStack developer from Indonesia Espesially o
 [<img src="https://img.shields.io/badge/spring%20-%236DB33F.svg?&style=for-the-badge&logo=spring&logoColor=white" />](https://spring.io/)
 [<img src="https://img.shields.io/badge/hibernate%20-%236DB33F.svg?&style=for-the-badge&logo=spring&logoColor=white" />](https://hibernate.org/)
 [<img src="https://img.shields.io/badge/go%20-%2300ADD8.svg?&style=for-the-badge&logo=go&logoColor=white" />](https://golang.org/)
-[<img src="https://img.shields.io/badge/php%20-%23777BB4.svg?&style=for-the-badge&logo=php&logoColor=white" />](https://www.php.net/)
 [<img src="https://img.shields.io/badge/mysql-%234479A1.svg?&style=for-the-badge&logo=mysql&logoColor=white" />](https://www.mysql.com/)
 [<img src="https://img.shields.io/badge/redis%20-%23DC382D.svg?&style=for-the-badge&logo=redis&logoColor=white" />](https://redis.io/)
 
