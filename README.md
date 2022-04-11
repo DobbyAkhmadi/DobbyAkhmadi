@@ -4,8 +4,7 @@
 Hello, I'm Dobby Akhmadi. I am a BackEnd developer from Indonesia Espesially on Bandung. I did some projects with Spring, Go, .Net C#, Ada Core, C++ and many more. Contact me if you have some questions!
 
 #### 👨‍💼 About me:
-- 📖 Learing backend desktop and web development, mainly Spring with Hibernate,.Net,Golang
-- 💰 Currently working as Developer
+- 📖 Learing backend desktop and web development, mainly Spring with Hibernate,.Net,Golang,Node JS
 - 🛠️ Love Hackintoshes,iOS jailbreaking and New Technology
 - 🌐 Visit my [Website](https://google.com/) for Complete Presentation!
 
