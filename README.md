@@ -5,7 +5,7 @@ Hello, I'm Dobby Akhmadi. I am a BackEnd developer from Indonesia Espesially on 
 
 #### 👨‍💼 About me:
 - 📖 Learing backend desktop and web development, mainly Spring with Hibernate,.Net,Golang
-- 💰 Currently working as Developer on Small Startup
+- 💰 Currently working as Developer
 - 🛠️ Love Hackintoshes,iOS jailbreaking and New Technology
 - 🌐 Visit my [Website](https://google.com/) for Complete Presentation!
 
