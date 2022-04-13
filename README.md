@@ -6,7 +6,6 @@ Hello, I'm Dobby Akhmadi. I am a BackEnd developer from Indonesia Espesially on 
 #### 👨‍💼 About me:
 - 📖 Learing backend desktop and web development, mainly Spring with Hibernate,.Net,Golang,Node JS
 - 🛠️ Love Hackintoshes,iOS jailbreaking and New Technology
-- 🌐 Visit my [Website](https://google.com/) for Complete Presentation!
 
 #### 📨 Contact:
 [<img src="https://img.shields.io/badge/website-%234285F4.svg?&style=for-the-badge&logo=safari&logoColor=white" />](https://mikigal.pl/)
