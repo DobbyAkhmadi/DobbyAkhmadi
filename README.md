@@ -1,35 +1,32 @@
 # Hello World! <img src="https://github.com/mikigal/mikigal/blob/master/hi.gif" width="35px" />
-
-
-Hello, I'm Dobby Akhmadi. I am a BackEnd developer from Indonesia Espesially on Bandung. I did some projects with Spring, Go, .Net C#, Ada Core, C++ and many more.
-
-#### 👨‍💼 About me:
-- 📖 Learing backend desktop and web development, mainly Spring with Hibernate,DotNet,Golang,Node JS
-- 🛠️ Love Hackintoshes,iOS jailbreaking and New Technology
-
-#### 📨 Contact:
-[<img src="https://img.shields.io/badge/website-%234285F4.svg?&style=for-the-badge&logo=safari&logoColor=white" />](https://mikigal.pl/)
-[<img src="https://img.shields.io/badge/mail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" />](mailto:dobby.akhmadi@gmail.com)
-
+My name is dobby akhmadi I'am a Back End Developer 
+* 🌍  I'm based in Bandung 
+* ✉️  You can contact me at [dobby.akhmadi@gmail.com](mailto:dobby.akhmadi@gmail.com)
+* 🛠️ Love Hackintoshes,iOS jailbreaking and New Technology
 
 #### ⚙️ Tech Stack:
-[<img src="https://img.shields.io/badge/java%20-%23007396.svg?&style=for-the-badge&logo=java&logoColor=white" />](https://docs.oracle.com/en/java/)
-[<img src="https://img.shields.io/badge/spring%20-%236DB33F.svg?&style=for-the-badge&logo=spring&logoColor=white" />](https://spring.io/)
-[<img src="https://img.shields.io/badge/hibernate%20-%236DB33F.svg?&style=for-the-badge&logo=spring&logoColor=white" />](https://hibernate.org/)
-[<img src="https://img.shields.io/badge/go%20-%2300ADD8.svg?&style=for-the-badge&logo=go&logoColor=white" />](https://golang.org/)
-[<img src="https://img.shields.io/badge/mysql-%234479A1.svg?&style=for-the-badge&logo=mysql&logoColor=white" />](https://www.mysql.com/)
-[<img src="https://img.shields.io/badge/redis%20-%23DC382D.svg?&style=for-the-badge&logo=redis&logoColor=white" />](https://redis.io/)
 
-#### 🛠️ Tools:
+<p align="left"> <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" /></a> <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a> <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" width="36" height="36" alt="C#" /></a> <a href="https://go.dev/doc/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/go-colored.svg" width="36" height="36" alt="Go" /></a> <a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="Javascript" /></a> <a href="https://www.php.net/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" width="36" height="36" alt="PHP" /></a> <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a> <a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored.svg" width="36" height="36" alt="Express" /></a> <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/fastapi-colored.svg" width="36" height="36" alt="Fast API" /></a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a> <a href="https://www.oracle.com/uk/index.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/oracle-colored.svg" width="36" height="36" alt="Oracle" /></a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a> <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a> <a href="https://dotnet.microsoft.com/en-us/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/dot-net-colored.svg" width="36" height="36" alt=".NET" /></a> <a href="https://laravel.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/laravel-colored.svg" width="36" height="36" alt="Lavarel" /></a> <a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored.svg" width="36" height="36" alt="Photoshop" /></a> <a href="https://www.adobe.com/uk/products/premiere.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/premierepro-colored.svg" width="36" height="36" alt="Premiere Pro" /></a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a> 
+
+  #### 🛠️ Tools:
 [<img src="https://img.shields.io/badge/mac%20-%23343739.svg?&style=for-the-badge&logo=apple&logoColor=white" />](https://www.apple.com/macos/catalina/)
 [<img src="https://img.shields.io/badge/linux%20-%23A81D33.svg?&style=for-the-badge&logo=linux&logoColor=white" />](https://www.debian.org/index.pl.html)
 [<img src="https://img.shields.io/badge/jetbrains%20-%236F02B5.svg?&style=for-the-badge&logo=jetbrains&logoColor=white" />](https://www.jetbrains.com/)
 [<img src="https://img.shields.io/badge/intellij_idea%20-%23007396.svg?&style=for-the-badge&logo=intellij-idea&logoColor=white" />](https://www.jetbrains.com/idea/)
 [<img src="https://img.shields.io/badge/postman%20-%23FF6C37.svg?&style=for-the-badge&logo=postman&logoColor=white" />](https://www.postman.com/)
-[<img src="https://img.shields.io/badge/git%20-%23181717.svg?&style=for-the-badge&logo=github&logoColor=white" />](https://github.com/)
+[<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />](https://github.com/)
+[<img src="https://img.shields.io/badge/Bitbucket-330F63?style=for-the-badge&logo=bitbucket&logoColor=white" />](https://github.com/)
+  
+  
+#### ⚙️ More About me: 
+</p>
+
+ <p align="left"> <a href="https://www.github.com/DobbyAkhmadi" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/dobyakhmadi" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/dobby-akhmadi-putra-488968111/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
 
 #### 📈 My Github Stats:
+
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=DobbyAkhmadi&show_icons=true&theme=radical&line_height=24&count_private=true" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DobbyAkhmadi&theme=radical&layout=compact" />
 </div>
+<a href="http://www.github.com/DobbyAkhmadi"><img src="https://activity-graph.herokuapp.com/graph?username=DobbyAkhmadi&bg_color=000000&color=ffffff&line=3382ed&point=ffffff&area_color=000000&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
