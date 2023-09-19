@@ -1,8 +1,8 @@
 # Hello World! <img src="https://github.com/mikigal/mikigal/blob/master/hi.gif" width="35px" />
-My name is dobby akhmadi I'am a Back End Software Engineer & Devops Engineer
+My name is dobby akhmadi I'am a Software Engineer
 * 🌍  I'm based in Bandung 
 * ✉️  You can contact me at [dobby.akhmadi@gmail.com](mailto:dobby.akhmadi@gmail.com)
-* 🛠️ Love Hackintoshes,iOS jailbreaking and New Technology
+* 🛠️ Love New Technology
 
 #### ⚙️ Tech Stack:
 
